@@ -22,7 +22,7 @@ import { BookkeepingComponent } from './components/bookkeeping/bookkeeping.compo
 import { EbudgetingCreateComponent } from './components/ebudgeting-create/ebudgeting-create.component';
 import { TransactionUpdateComponent } from './components/transaction-update/transaction-update.component';
 import { ReminderUpdateComponent } from './components/reminder-update/reminder-update.component';
-import { ComponentsComponent } from './components/components.component';
+
 
 
 @NgModule({
@@ -43,7 +43,7 @@ import { ComponentsComponent } from './components/components.component';
     EbudgetingCreateComponent,
     TransactionUpdateComponent,
     ReminderUpdateComponent,
-    ComponentsComponent,
+
 
 
 
