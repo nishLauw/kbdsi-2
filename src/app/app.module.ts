@@ -22,6 +22,7 @@ import { BookkeepingComponent } from './components/bookkeeping/bookkeeping.compo
 import { EbudgetingCreateComponent } from './components/ebudgeting-create/ebudgeting-create.component';
 import { TransactionUpdateComponent } from './components/transaction-update/transaction-update.component';
 import { ReminderUpdateComponent } from './components/reminder-update/reminder-update.component';
+import { MenuComponent } from './menu/menu.component';
 
 
 
@@ -43,6 +44,7 @@ import { ReminderUpdateComponent } from './components/reminder-update/reminder-u
     EbudgetingCreateComponent,
     TransactionUpdateComponent,
     ReminderUpdateComponent,
+    MenuComponent,
 
 
 

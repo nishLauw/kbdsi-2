@@ -12,6 +12,10 @@ import Swal from 'sweetalert2/dist/sweetalert2.js';
 
 
 export class ReminderComponent {
+  openTab = 1;
+  toggleTabs($tabNumber: number){
+    this.openTab = $tabNumber;
+  }
   confirmBox(){
     Swal.fire({
       title: 'Are you sure want to remove?',
